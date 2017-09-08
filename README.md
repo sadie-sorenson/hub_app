@@ -8,4 +8,4 @@ Validate sales order number with database --
 Choose which format of pictures to upload (storage location depends on this) -- 
 Open device's existing camera app and allow user to take 1+ photos of product -- 
 Upload photos to storage location -- 
-Allow user to repeat process with a different sales order number -- 
+Allow user to repeat process with a different sales order number
