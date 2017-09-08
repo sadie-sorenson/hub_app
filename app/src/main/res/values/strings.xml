@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Product Documentation</string>
+<string name="action_settings">Settings</string>
+<string name="edit_text_hint">Sales Order Number</string>
+<string name="radio_button1">A&amp;P</string>
+<string name="radio_button2">ASSY</string>
+<string name="button">Take Photo(s)</string>
+<string name="title">Manufactured Product Documentation</string>
+</resources>
